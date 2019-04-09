@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+用途
 
-Things you may want to cover:
+実装機能
+1.記事一覧表示機能
+　実装中
+　[実装方法]
 
-* Ruby version
+2.記事詳細表示機能
 
-* System dependencies
+3.記事投稿機能
 
-* Configuration
+4.管理ﾕｰｻﾞｰ登録機能
 
-* Database creation
+5.管理ﾕｰｻﾞｰﾛｸﾞｲﾝ機能
 
-* Database initialization
+6.画像ﾌｧｲﾙのｱｯﾌﾟﾛｰﾄﾞ機能
 
-* How to run the test suite
+7.DBﾃｰﾌﾞﾙのﾘﾚｰｼｮﾝ機能
 
-* Services (job queues, cache servers, search engines, etc.)
+8.DBﾄﾗﾝｻﾞｸｼｮﾝの制御機能
 
-* Deployment instructions
+9.ﾍﾟｰｼﾞﾈｰｼｮﾝ機能
 
-* ...
+10.単体ﾃｽﾄ機能
+
+11.統合ﾃｽﾄ機能
